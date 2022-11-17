@@ -18,7 +18,7 @@ a {
 }
 
 .main-button a {
-	background-color: #3a8bcd;
+	background-color: #3fcd3a;
 	border-radius: 5px;
 	padding: 10px 15px;
 	display: inline-block;
@@ -40,7 +40,7 @@ a {
 .section-heading .line-dec {
 	width: 30px;
 	height: 5px;
-	background-color: #3a8bcd;
+	background-color: #69cd3a;
 }
 .section-heading h1 {
 	font-size: 22px;
@@ -109,8 +109,8 @@ a {
 	background-image: none;
 }
 .navbar-dark .navbar-toggler {
-	border-color: #3a8bcd;
-	background-color: #3a8bcd;	
+	border-color: #3acd46;
+	background-color: #3acd46;	
 	height: 50px;
 	outline: none;
 }
